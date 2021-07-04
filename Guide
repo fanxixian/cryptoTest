@@ -1,0 +1,12 @@
+The program runs on MacOs 10.15.2  and  Google Chrome 91.0.4472.114.
+development tool is Pycharm.
+
+step1:
+setup python2.7 
+
+step2:
+pip install selenium
+
+step3:
+run main()
+
